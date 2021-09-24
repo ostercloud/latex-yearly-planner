@@ -1,4 +1,4 @@
-\myUnderline{Schedule\textcolor{white}{g}}\vskip-\myLenLineThicknessDefault
+\myUnderline{Spiritual Routine\textcolor{white}{g}}\vskip-\myLenLineThicknessDefault
 {{range $hour := .Hours -}}
   \myLineHeightButLine%
   {{if $.Cfg.AMPMTime -}}
